@@ -1,6 +1,6 @@
 # cartify
 
-cartify is a work-in-progress tool to automate the setup of custom icons for the Nintendo switch
+cartify is a work-in-progress tool to automate the setup of custom icons for the Nintendo switch [cartify-theme](https://github.com/StankWizardLizard/cartify-theme)
 
 ## Getting Started
 
