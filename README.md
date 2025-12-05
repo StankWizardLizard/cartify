@@ -26,7 +26,7 @@ This tool is reliant on two other tools [sys-tweak](https://sodasoba1.github.io/
 
 ```
 # clone repo
-git clone https://github.com/StankWizardLizard/cartify.git
+git clone https://github.com/Stank-Wizard/cartify.git
 
 # enter directory
 cd cartify
